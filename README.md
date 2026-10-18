@@ -20,4 +20,4 @@ this pack contains ONLY the executables and their respective dll files
 **Q:** is this project vibecoded?
 
 **A:** i'm definitely gonna have a lot of people suspicious about this, especially since this project came about amidst the recent influx of vibecoded (and often HORRENDOUSLY "optimized") pc ports/recomps that have been multiplying like f'n rabbits, but **no, there was no ai involved in this at all**;
-all i did was simply run the pre-existing rsdk decompilation source repositories through w64devkit with the proper optimizations for xp, then adapt those optimizations for the other versions
+all i did was simply run the pre-existing rsdk decompilation source repositories through w64devkit with the proper optimizations for xp, adapting the optimizations for each version as i went
